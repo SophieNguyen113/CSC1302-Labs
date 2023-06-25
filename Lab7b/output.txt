@@ -1,0 +1,10 @@
+aspiration - in range
+classified - in range
+federation - in range
+graduation - in range
+millennium - in range
+philosophy - not in range
+quadratics - not in range
+transcript - not in range
+wilderness - not in range
+zoologists - not in range

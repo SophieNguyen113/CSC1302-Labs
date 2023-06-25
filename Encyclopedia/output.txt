@@ -1,0 +1,12 @@
+Book Information:
+   Book Title: The Hobbit
+   Author: J. R. R. Tolkien
+   Publisher: George Allen & Unwin
+   Publication Date: 21 September 1937
+Book Information:
+   Book Title: The Illustrated Encyclopedia of the Universe
+   Author: Ian Ridpath
+   Publisher: Watson-Guptill
+   Publication Date: 2001
+   Edition: 2nd
+   Number of Pages: 384
